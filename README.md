@@ -1,4 +1,7 @@
 ### Olá! Eu sou o Lafaiete Alves 🐺
+🌠Trabalho atualmente administrando um Banco de Dados na empresa Exército Brasileiro
+
+🌱Cursando o 2° semestre de Engenharia de Software
 
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lafaiete-alves-a0950a247/)
