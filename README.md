@@ -8,7 +8,12 @@
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lafaiete_alves?t=w4fqdWcDsj3yZ3xnF-IRnQ&s=08)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lafaiete_alves_c/)
  
- ![Lafaiete Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=LafaieteAlves&show_icons=true&theme=radical)
+ <div align="center">
+  <a href="https://github.com/LafaieteAlves">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LafaieteAlves&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 ### Tecnologias que sou certificado e que uso no meu dia 🖥️
 
 
