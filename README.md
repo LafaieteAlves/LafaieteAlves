@@ -14,7 +14,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-### Tecnologias que sou certificado e que uso no meu dia 🖥️
+ Tecnologias que sou certificado e que uso no meu dia 🖥️ 
 
 
 
