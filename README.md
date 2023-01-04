@@ -11,7 +11,7 @@
  <div align="center">
   <a href="https://github.com/LafaieteAlves">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LafaieteAlves&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafaieteAlves&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
  Tecnologias que sou certificado e que uso no meu dia 🖥️ 
