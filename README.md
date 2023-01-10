@@ -10,9 +10,7 @@
  
  <div align="center">
   <a href="https://github.com/LafaieteAlves">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LafaieteAlves&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LafaieteAlves&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LafaieteAlves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  Tecnologias que sou certificado e que uso no meu dia 🖥️ 
 
