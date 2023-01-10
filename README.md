@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lafaiete Alves 🐺
-🌠Trabalho atualmente administrando um Banco de Dados na empresa Exército Brasileiro
+🌠Trabalho atualmente como Desenvolvedor na empresa Exército Brasileiro
 
 🌱Cursando o 2° semestre de Engenharia de Software
 
