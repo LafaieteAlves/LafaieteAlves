@@ -18,7 +18,11 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=LafaieteAlves&show_icons=true" />
+ 
 </picture>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LafaieteAlves&layout=compact)](https://github.com/LafaieteAlves/github-readme-stats)
+ 
  
  Tecnologias que sou certificado e que uso no meu dia 🖥️ 
 
