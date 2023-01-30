@@ -8,6 +8,18 @@
  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lafaiete_alves?t=w4fqdWcDsj3yZ3xnF-IRnQ&s=08)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lafaiete_alves_c/)
  
+ <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=LafaieteAlves&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=LafaieteAlves&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=LafaieteAlves&show_icons=true" />
+</picture>
+ 
  Tecnologias que sou certificado e que uso no meu dia 🖥️ 
 
 
@@ -24,4 +36,6 @@
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+
 
