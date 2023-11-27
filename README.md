@@ -1,9 +1,9 @@
  <div align="center">
 
 ### Olá! Eu sou o Lafaiete Alves 🐺
-🌠Trabalho atualmente como Desenvolvedor na empresa Exército Brasileiro
+🌠Trabalho atualmente na empresa Exército Brasileiro
 
-🌱Cursando o 2° semestre de Engenharia de Software
+🌱Cursando o 4° semestre de Engenharia de Software
  
 
 
